@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Feedback Form</title>
+    <style>
+        .feedback-form {
+            max-width: 400px;
+            margin: 50px auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            font-family: Arial, sans-serif;
+        }
+
+        .feedback-form label {
+            display: flex;
+            flex-direction: column;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .feedback-form input,
+        .feedback-form textarea {
+            padding: 10px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .feedback-form button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            background-color: #1976d2;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            width: 30%;
+        }
+        .feedback-form button:hover{
+            background-color: steelblue;
+        }
+    </style>
+</head>
+<body>
+
+<form class="feedback-form" autocomplete="off">
+    <label>
+        Email
+        <input type="email" name="email" autofocus />
+    </label>
+    <label>
+        Message
+        <textarea name="message" rows="8"></textarea>
+    </label>
+    <button type="submit">Submit</button>
+</form>
+
+<script src="laboratorna52_task2.js"></script>
+</body>
+</html>

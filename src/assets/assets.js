@@ -70,7 +70,30 @@ import tablet3 from './images/laboratorna_4/tablet3.png'
 import phone from './images/laboratorna_4/phone.png'
 import phone2 from './images/laboratorna_4/phone2.png'
 import phone3 from './images/laboratorna_4/phone3.png'
-
+//laboratorna 4
+import lab4_task1 from './images/laboratorna_5/lab4_task1.png'
+import lab4_task2 from './images/laboratorna_5/lab4_task2.png'
+import lab4_task3 from './images/laboratorna_5/lab4_task3.png'
+import lab4_task4 from './images/laboratorna_5/lab4_task4.png'
+import lab4_task5 from './images/laboratorna_5/lab4_task5.png'
+import lab4_task6 from './images/laboratorna_5/lab4_task6.png'
+import lab4_task7 from './images/laboratorna_5/lab4_task7.png'
+//laboratorna 5.1
+import lab5_task1 from './images/laboratorna_6/lab5_task1.png'
+import lab5_task2 from './images/laboratorna_6/lab5_task2.png'
+import lab5_task3 from './images/laboratorna_6/lab5_task3.png'
+import lab5_task4 from './images/laboratorna_6/lab5_task4.png'
+import lab5_task5 from './images/laboratorna_6/lab5_task5.png'
+import lab5_task6 from './images/laboratorna_6/lab5_task6.png'
+import lab5_task7 from './images/laboratorna_6/lab5_task7.png'
+import lab5_task8 from './images/laboratorna_6/lab5_task8.png'
+import lab5_task9 from './images/laboratorna_6/lab5_task9.png'
+import lab5_task10 from './images/laboratorna_6/lab5_task10.png'
+//laboratorna 5.2
+import lab52_task1 from './images/laboratorna_7/lab52_task1.png'
+import lab52_task2 from './images/laboratorna_7/lab52_task2.png'
+import lab52_task3 from './images/laboratorna_7/lab52_task3.png'
+import lab52_task4 from './images/laboratorna_7/lab52_task4.png'
 export const assets = {
     dropdown,
     menu,
@@ -134,5 +157,26 @@ export const assets = {
     tablet3,
     phone,
     phone2,
-    phone3
+    phone3,
+    lab4_task1,
+    lab4_task2,
+    lab4_task3,
+    lab4_task4,
+    lab4_task5,
+    lab4_task6,
+    lab4_task7,
+    lab5_task1,
+    lab5_task2,
+    lab5_task3,
+    lab5_task4,
+    lab5_task5,
+    lab5_task6,
+    lab5_task7,
+    lab5_task8,
+    lab5_task9,
+    lab5_task10,
+    lab52_task1,
+    lab52_task2,
+    lab52_task3,
+    lab52_task4,
 }

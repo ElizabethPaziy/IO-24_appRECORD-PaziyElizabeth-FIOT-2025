@@ -26,10 +26,10 @@ const Navigation = () => {
                     <p>Лабораторна робота №4</p>
                 </NavLink>
                 <NavLink to='/IO-24_appRECORD-PaziyElizabeth-FIOT-2025/l6' className='flex flex-col items-center gap-1 border-1 rounded-lg p-2'>
-                    <p>Лабораторна робота №5</p>
+                    <p>Лабораторна робота №5.1</p>
                 </NavLink>
                 <NavLink to='/IO-24_appRECORD-PaziyElizabeth-FIOT-2025/l7' className='flex flex-col items-center gap-1 border-1 rounded-lg p-2'>
-                    <p>Лабораторна робота №6</p>
+                    <p>Лабораторна робота №5.2</p>
                 </NavLink>
                 <NavLink to='/IO-24_appRECORD-PaziyElizabeth-FIOT-2025/l8' className='flex flex-col items-center gap-1 border-1 rounded-lg p-2'>
                     <p>Лабораторна робота №7</p>

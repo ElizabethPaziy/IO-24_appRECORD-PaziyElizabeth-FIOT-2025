@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+    background-color: lightgreen;
+}
+input {
+    margin: 10px;
+    padding: 5px;
+}
+button {
+    padding: 5px 10px;
+}
+
+#square {
+    width: 150px;
+    height: 150px;
+    border: 3px dashed red;
+    margin: 20px;
+}
